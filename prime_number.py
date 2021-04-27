@@ -5,7 +5,7 @@ if number >= 2 :
             print("{} is a prime number".format(number))
             break
         else :
-            print("{}  is a prime number".format(number))
+            print("{} is a prime number".format(number))
             break
 else:
     print("{} is not a prime number".format(number))
